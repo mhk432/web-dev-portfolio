@@ -151,4 +151,44 @@ font-size: 85px;
     border-radius: 5px;
 }
 
+  /* resum section style */
+  .resume-containar{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+    
+  }
+  .section-title{
+text-align: center;
+/* font-weight: 35px; */
+color: rgba(24, 24, 24, 1);
+  }
+  .section-title{
+    font-weight: bold;
+  }
+  .experience-description{
+   color: rgba(117, 117, 117, 1);
+  }
+  .experience-sub-title{
+    /* font-size: 20px; */
+    /* font-size: 600; */
+    margin-bottom: 35px;
+  }
+  .resume hr{
+   margin: 30px 50px;
+  }
+  .experience-title{
+    font-size: 20px;
+    font-size: 600;
+
+
+  }
+  /* resume cv */
+  .resume-Download-cv{
+    margin-top: 50px;
+    }
+    /* footer */
+    .footer{
+        padding: 130px 230px;    }
+        .
 
